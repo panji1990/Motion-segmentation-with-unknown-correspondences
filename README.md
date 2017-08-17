@@ -1,4 +1,4 @@
-# MotionSegmentationWithoutMatching
+# Motion segmentation with unknown point correspondences
 
 1. Install ncuts from https://www.cis.upenn.edu/~jshi/software/.
 2. Install vlfeat from http://www.vlfeat.org/.
