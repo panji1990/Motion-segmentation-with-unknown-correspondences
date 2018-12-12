@@ -1,3 +1,5 @@
+% Author: Pan Ji, ANU
+% Copyright reserved!
 function [sift_acc, P_sift]= sift_matching_hungarian(Fea,P)
 F = length(Fea);
 N = size(Fea{1},2);
