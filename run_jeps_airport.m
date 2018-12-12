@@ -1,3 +1,5 @@
+% Author: Pan Ji, ANU
+% Copyright reserved!
 clear, close all
 %cd('D:\Reference_Code\Subspace Clustering Algorithms\Clustering_without_matching')
 addpath(pwd);
