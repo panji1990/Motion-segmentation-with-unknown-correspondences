@@ -1,3 +1,5 @@
+% Author: Pan Ji, ANU
+% Copyright reserved!
 function [XC,XF] = plot_corres_moseg(video,locs,descrs,PM,grp)
 F = length(locs); %the number of frames
 N = size(PM{1},2);  %the number of inlier points
