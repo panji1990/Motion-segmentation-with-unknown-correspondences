@@ -1,3 +1,5 @@
+% Author: Pan Ji, ANU
+% Copyright reserved!
 function [Missrate, C, grp,time] = edsc(X,s,lambda,affine,outlier,Dim,alpha)
 if(nargin<5)
 	outlier = false;
