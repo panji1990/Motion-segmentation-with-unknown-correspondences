@@ -1,3 +1,5 @@
+% Author: Pan Ji, ANU
+% Copyright reserved!
 function [XP,P] = permutated(X,option)
 if(nargin<2)
 	option = 'Point'; % Feature
