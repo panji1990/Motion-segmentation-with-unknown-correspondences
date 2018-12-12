@@ -1,3 +1,6 @@
+
+% Author: Pan Ji, ANU
+% Copyright reserved!
 clear, close all
 
 addpath(genpath(pwd));
