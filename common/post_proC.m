@@ -1,3 +1,5 @@
+% Author: Pan Ji, ANU
+% Copyright reserved!
 function [grp, time] = post_proC(C,K,d,alpha)
 warning off
 if(nargin<4)
