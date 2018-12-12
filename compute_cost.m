@@ -1,4 +1,6 @@
 % compute cost matrix for Hungarian algorithm min \|Gvec(P)-a\|_2^2
+% Author: Pan Ji, ANU
+% Copyright reserved!
 function cost = compute_cost(G,a)
 [~,N] = size(G);
 
